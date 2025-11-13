@@ -1,0 +1,5 @@
+{
+  "name": "Full-Stack ToDo List App",
+  "description": "A ToDo list application built with React for the frontend and Vercel Functions with Vercel Postgres for the backend.",
+  "requestFramePermissions": []
+}
